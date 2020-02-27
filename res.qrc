@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="pic_menu">data/pic_menu.jpg</file>
+    </qresource>
+    <qresource prefix="/levels"/>
+    <qresource prefix="/styles">
+        <file alias="style_default">data/style.css</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file>data/levels.data</file>
+    </qresource>
+</RCC>
